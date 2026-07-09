@@ -28,12 +28,14 @@ The dataset is used for:
 
 ## Data Confidentiality
 
-This analysis is based on real operational sales data. To protect business confidentiality, all sensitive information, proprietary details, and identifiable records have been removed, anonymized, or aggregated before publication.
+This project uses anonymized and simplified revenue data derived from real operational sales data for educational, analytical, and portfolio demonstration purposes.
 
-The dataset is provided solely for educational, analytical, and portfolio demonstration purposes.
+All customer information, employee information, reservation-level records, company-identifiable details, proprietary business information, and other sensitive fields have been removed, anonymized, simplified, or aggregated before publication.
+
+The dataset is provided only to demonstrate data analysis, forecasting, and business insight generation workflows. It should not be interpreted as a complete or current representation of any specific company’s business performance.
 
 ## Notes
 
 * No personally identifiable information (PII) is included.
-* Confidential business information has been excluded.
+* No confidential, company-identifiable, or proprietary business information is included.
 * Data structure may be simplified from the original operational dataset.
